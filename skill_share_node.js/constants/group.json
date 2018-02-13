@@ -1,0 +1,98 @@
+{
+        "my groups": [],
+
+        "Featured Groups": [{
+                        "_id": "5a81b2357ae68f2b2c91bbbc",
+                        "groupName": "Illustrators",
+                        "groupThumbnail": "https://i.pinimg.com/736x/46/39/06/4639060eed251c2cc881e9351e5b75ef--line-illustration-portrait-illustration.jpg",
+                        "memberCount": "5.4k"
+                },
+                {
+                        "_id": "5a81b2859304f5156cbc66fd",
+                        "groupName": "Creative Business",
+                        "groupThumbnail": "http://yourdost-blog-images.s3-ap-southeast-1.amazonaws.com/wp-content/uploads/2016/02/23205421/creative-compressor-1.jpg",
+                        "memberCount": "4.2k"
+                },
+                {
+                        "_id": "id3",
+                        "groupName": "Productivity Tips",
+                        "groupThumbnail": "http://webmarketingtherapy.com/blog/wp-content/uploads/2014/02/Picture-10-600x469.png",
+                        "memberCount": "3.6k"
+                },
+                {
+                        "_id": "id4",
+                        "groupName": "Graphic Designers",
+                        "groupThumbnail": "http://spyrestudios.com/wp-content/uploads/designers-instagram.jpg",
+                        "memberCount": "3.4k"
+                },
+                {
+                        "_id": "id12",
+                        "groupName": "Social Media Strategy",
+                        "groupThumbnail": "http://www.socialmediaimpact.com/wp-content/uploads/2013/08/social-media.jpg",
+                        "memberCount": "3k"
+                },
+                {
+                        "_id": "id11",
+                        "groupName": "Caligraphy & Lettering",
+                        "groupThumbnail": "https://i.ytimg.com/vi/sBoVGqiSzr4/maxresdefault.jpg",
+                        "memberCount": "2.4k"
+                },
+                {
+                        "_id": "id7",
+                        "groupName": "DSLR Photography",
+                        "groupThumbnail": "https://qph.ec.quoracdn.net/main-qimg-b569f97ec8af3cb7fc30af3756cc0fff",
+                        "memberCount": "2.4k"
+                }
+        ],
+
+        "Recently Active Groups": [{
+                        "_id": "5a81b2d723466d19dc49a020",
+                        "groupName": "Caligraphy & Lettering",
+                        "groupThumbnail": "https://i.ytimg.com/vi/sBoVGqiSzr4/maxresdefault.jpg",
+                        "memberCount": "2.4k"
+                },
+                {
+                        "_id": "id12",
+                        "groupName": "Social Media Strategy",
+                        "groupThumbnail": "http://www.socialmediaimpact.com/wp-content/uploads/2013/08/social-media.jpg",
+                        "memberCount": "3k"
+                },
+                {
+                        "_id": "id13",
+                        "groupName": "Filmmaking",
+                        "groupThumbnail": "http://actinginlondon.co.uk/wp-content/uploads/2016/06/Why-Actors-Should-Get-Into-Filmmaking.jpg",
+                        "memberCount": "559"
+                },
+                {
+                        "_id": "id14",
+                        "groupName": "Watercolor",
+                        "groupThumbnail": "https://image.freepik.com/free-vector/soft-background-with-a-cute-blue-watercolor-stain_1048-5169.jpg",
+                        "memberCount": "1.9k"
+                },
+                {
+                        "_id": "id15",
+                        "groupName": "Sketchbook Magic",
+                        "groupThumbnail": "https://s-media-cache-ak0.pinimg.com/originals/66/a3/a5/66a3a596468f9e6cc392a2fcd3f316ff.jpg",
+                        "memberCount": "1.6k"
+                },
+                {
+                        "_id": "id1",
+                        "groupName": "Illustrators",
+                        "groupThumbnail": "https://i.pinimg.com/736x/46/39/06/4639060eed251c2cc881e9351e5b75ef--line-illustration-portrait-illustration.jpg",
+                        "memberCount": "5.4k"
+                },
+                {
+                        "_id": "id7",
+                        "groupName": "DSLR Photography",
+                        "groupThumbnail": "https://qph.ec.quoracdn.net/main-qimg-b569f97ec8af3cb7fc30af3756cc0fff",
+                        "memberCount": "2.4k"
+                },
+                {
+                        "_id": "id16",
+                        "groupName": "Stationery Designers",
+                        "groupThumbnail": "http://lovelystationery.com/wp-content/uploads/2013/09/lovely-stationery-designers-anonymous-3.jpg",
+                        "memberCount": "455"
+                }
+        ]
+
+}
